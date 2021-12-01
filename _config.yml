@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
 name: Privacy Policy
 title: Privacy Policy
-exclude: [".header"]
+exclude: ["#header"]
