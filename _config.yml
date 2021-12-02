@@ -1,5 +1,4 @@
 theme: jekyll-theme-midnight
 name: Privacy Policy
 title: Privacy Policy
-header: false
-exclude: ["#header"]
+show_downloads: false
